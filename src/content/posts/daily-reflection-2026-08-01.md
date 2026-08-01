@@ -3,7 +3,7 @@ title: 每日复盘日志 | 2026-08-01
 published: 2026-08-01
 pinned: false
 description: 从青旅升级、日结破零到主动社交与博客起步——记录"第一次"浓度极高的一天，以及行动-复盘-迭代的正循环方法论。
-tags: [复盘, 生活, 成长, 日志]
+tags: [每日复盘]
 category: 生活随笔
 slug: daily-reflection-2026-08-01
 ---
