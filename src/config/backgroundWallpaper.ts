@@ -81,7 +81,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"我或曾梦见,与你亲密无间;",
-				"醒来后发现,你我形同陌路。"
+				"醒来后发现,你我形同陌路。",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
