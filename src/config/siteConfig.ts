@@ -15,16 +15,10 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://004301.xyz",
 
 	// 站点描述
-	description:
-		"学习过程中的一些拙笔",
+	description: "学习过程中的一些拙笔",
 
 	// 站点关键词
-	keywords: [
-		"Fuwari",
-		"Astro",
-		"ACGN",
-		"博客",
-	],
+	keywords: ["Fuwari", "Astro", "ACGN", "博客"],
 
 	// 主题色
 	themeColor: {
