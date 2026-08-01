@@ -6,7 +6,7 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "xunfang",
+	title: "寻芳",
 
 	// 站点副标题
 	subtitle: "凡是过往，皆为序章。",
@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
 	description: "学习过程中的一些拙笔",
 
 	// 站点关键词
-	keywords: ["Fuwari", "Astro", "ACGN", "博客"],
+	keywords: ["寻芳", "Astro", "ACGN", "博客", "复盘"],
 
 	// 主题色
 	themeColor: {
