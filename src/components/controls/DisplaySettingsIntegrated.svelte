@@ -492,7 +492,7 @@ onMount(() => {
 	// 从localStorage读取横幅轮播状态
 	bannerCarouselEnabled = getStoredBannerCarouselEnabled();
 
-	// 从localStorage读取樱花特效状态
+	// 从localStorage读取彼岸花特效状态
 	sakuraEnabled = getStoredSakuraEnabled();
 
 	// 从localStorage读取卡片样式状态

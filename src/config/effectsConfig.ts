@@ -28,24 +28,24 @@ export const sakuraConfig: SakuraConfig = {
 		max: 0.9,
 	},
 
-	// 樱花移动速度
+	// 彼岸花移动速度
 	speed: {
 		// 水平移动
 		horizontal: {
 			// 水平移动速度最小值
-			min: -1.7,
+			min: -1.4,
 			// 水平移动速度最大值
-			max: -1.2,
+			max: -1.0,
 		},
 		// 垂直移动
 		vertical: {
 			// 垂直移动速度最小值
-			min: 1.5,
+			min: 1.2,
 			// 垂直移动速度最大值
-			max: 2.2,
+			max: 1.8,
 		},
 		// 旋转速度
-		rotation: 0.03,
+		rotation: 0.025,
 		// 消失速度，不应大于最小不透明度
 		fadeSpeed: 0.03,
 	},
