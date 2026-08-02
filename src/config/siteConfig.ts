@@ -103,7 +103,7 @@ export const siteConfig: SiteConfig = {
 		// 相册页面开关
 		gallery: true,
 		// 追番页面开关
-		anime: true,
+		anime: false,
 		// 动态页面开关
 		dynamic: true,
 	},
@@ -209,7 +209,7 @@ export const siteConfig: SiteConfig = {
 		// Bilibili 配置
 		bilibili: {
 			// 你的 Bilibili 用户 UID
-			uid: "38932988",
+			uid: "219962071",
 		},
 		// TMDB 配置（可选，需要翻墙）
 		// tmdb: {
