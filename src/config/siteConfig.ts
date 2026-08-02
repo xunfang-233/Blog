@@ -46,11 +46,21 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/firefly-32.png",
-			// 可选，指定主题 'light' | 'dark'
-			// theme: "light",
-			// 可选，图标大小
-			// sizes: "32x32",
+			src: "/favicon/fractsidus-32.png",
+			// 图标大小
+			sizes: "32x32",
+		},
+		{
+			src: "/favicon/fractsidus-128.png",
+			sizes: "128x128",
+		},
+		{
+			src: "/favicon/fractsidus-180.png",
+			sizes: "180x180",
+		},
+		{
+			src: "/favicon/fractsidus-192.png",
+			sizes: "192x192",
 		},
 	],
 
@@ -68,7 +78,7 @@ export const siteConfig: SiteConfig = {
 		logo: {
 			type: "image",
 			value: "assets/images/logo/fractsidus_light.webp",
-			valueDark: "assets/images/logo/firefly-dark.png",
+			valueDark: "assets/images/logo/Fractsidus_Logo_night.webp",
 			alt: "🍀",
 		},
 		// 导航栏标题
